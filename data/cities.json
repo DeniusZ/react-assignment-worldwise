@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "e868",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2025-03-17T07:20:48.444Z",
+      "notes": "",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "51.549751017014195",
+        "lng": "0.30761718750000006"
+      }
+    },
+    {
+      "id": "640f",
+      "cityName": "Bussy-Saint-Georges",
+      "country": "France",
+      "date": "2025-03-17T07:24:18.135Z",
+      "notes": "",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "48.80686346108519",
+        "lng": "2.7465820312500004"
+      }
+    },
+    {
+      "id": "f422",
+      "cityName": "Furged",
+      "country": "Hungary",
+      "date": "2025-03-17T07:27:36.979Z",
+      "notes": "",
+      "emoji": "🇭🇺",
+      "position": {
+        "lat": "46.73986059969267",
+        "lng": "18.281250000000004"
+      }
+    },
+    {
+      "id": "d9fa",
+      "cityName": "Ropazi",
+      "country": "Latvia",
+      "date": "2025-03-17T07:27:45.560Z",
+      "notes": "",
+      "emoji": "🇱🇻",
+      "position": {
+        "lat": "56.897003921272606",
+        "lng": "24.257812500000004"
+      }
+    },
+    {
+      "id": "cc97",
+      "cityName": "Skien",
+      "country": "Norway",
+      "date": "2025-03-17T07:28:17.526Z",
+      "notes": "nice",
+      "emoji": "🇳🇴",
+      "position": {
+        "lat": "59.40036514079251",
+        "lng": "9.580078125"
+      }
+    }
+  ]
+}
