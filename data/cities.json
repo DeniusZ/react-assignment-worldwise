@@ -25,18 +25,6 @@
       "id": "17806751"
     },
     {
-      "id": "e868",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "date": "2025-03-17T07:20:48.444Z",
-      "notes": "",
-      "emoji": "🇬🇧",
-      "position": {
-        "lat": "51.549751017014195",
-        "lng": "0.30761718750000006"
-      }
-    },
-    {
       "id": "640f",
       "cityName": "Bussy-Saint-Georges",
       "country": "France",
@@ -73,15 +61,15 @@
       }
     },
     {
-      "id": "cc97",
-      "cityName": "Skien",
-      "country": "Norway",
-      "date": "2025-03-17T07:28:17.526Z",
-      "notes": "nice",
-      "emoji": "🇳🇴",
+      "id": "6188",
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "date": "2025-03-18T06:54:57.926Z",
+      "notes": "",
+      "emoji": "🇭🇺",
       "position": {
-        "lat": "59.40036514079251",
-        "lng": "9.580078125"
+        "lat": "47.45037978769006",
+        "lng": "19.061279296875004"
       }
     }
   ]
